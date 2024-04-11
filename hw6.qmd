@@ -1,5 +1,5 @@
 ---
-title: "Homework 6 (Optional)"
+title: "Homework 6"
 author: "[Insert your name here]{style='background-color: yellow;'}"
 toc: true
 title-block-banner: true
@@ -14,8 +14,6 @@ execute:
     fig-height: 7
 ---
 
-
----
 
 ::: {.callout-important style="font-size: 0.8em;"}
 
